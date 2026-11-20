@@ -1,0 +1,16 @@
+; Engine configuration file.
+; Open this folder in Godot 4 (Import -> select this file).
+
+config_version=5
+
+[application]
+
+config/name="A Wolf's Calling"
+run/main_scene="res://cutscenes/intro.tscn"
+config/features=PackedStringArray("4.2")
+
+[display]
+
+window/size/viewport_width=1920
+window/size/viewport_height=1080
+window/stretch/mode="canvas_items"
